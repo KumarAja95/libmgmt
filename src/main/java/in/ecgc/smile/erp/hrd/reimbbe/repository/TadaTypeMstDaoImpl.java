@@ -10,7 +10,7 @@ import org.springframework.jdbc.core.RowMapper;
 import org.springframework.stereotype.Repository;
 
 import in.ecgc.smile.erp.hrd.reimbbe.model.TadaTypeMst;
-import in.ecgc.smile.erp.hrd.reimbbe.util.EmployeeQueries;
+import in.ecgc.smile.erp.hrd.reimbbe.util.TadaQueries;
 
 @Repository
 public class TadaTypeMstDaoImpl implements TadaTypeMstDao{
@@ -20,7 +20,7 @@ public class TadaTypeMstDaoImpl implements TadaTypeMstDao{
 	
 	@Override
 	public List<TadaTypeMst> getActiveTadaType() {
-		List<TadaTypeMst> tadaTypeList = jdbcOperations.query(EmployeeQueries.GET_ACTIVE_TADA_TYPE, new RowMapper<TadaTypeMst>() {
+		List<TadaTypeMst> tadaTypeList = jdbcOperations.query(TadaQueries.GET_ACTIVE_TADA_TYPE, new RowMapper<TadaTypeMst>() {
 
 			@Override
 			public TadaTypeMst mapRow(ResultSet rs, int rowNum) throws SQLException {
@@ -36,7 +36,7 @@ public class TadaTypeMstDaoImpl implements TadaTypeMstDao{
 
 	@Override
 	public List<TadaTypeMst> getActiveSubType(String type) {
-		List<TadaTypeMst> tadaSubTypeList = jdbcOperations.query(EmployeeQueries.GET_ACTIVE_TADA_SUBTYPE, 
+		List<TadaTypeMst> tadaSubTypeList = jdbcOperations.query(TadaQueries.GET_ACTIVE_TADA_SUBTYPE, 
 				new Object[] {type}, new RowMapper<TadaTypeMst>() {
 
 			@Override

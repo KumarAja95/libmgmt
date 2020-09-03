@@ -4,13 +4,13 @@ import java.util.Date;
 
 import org.springframework.format.annotation.DateTimeFormat;
 
-public class TadaTypeMst {
+public class IndLodgBordingMst {
 
-Integer tadaTypeId;
+Integer lodBordId;
 	
-	String type;
+	String description;
 	
-	String subType;
+	Integer rateOfDa;
 	
 	String status;
 	
@@ -23,29 +23,31 @@ Integer tadaTypeId;
 	
 	@DateTimeFormat(pattern="yyyy-MM-dd")
 	Date lastUpdatedDt;
+	
+	String remark;
 
-	public Integer getTadaTypeId() {
-		return tadaTypeId;
+	public Integer getLodBordId() {
+		return lodBordId;
 	}
 
-	public void setTadaTypeId(Integer tadaTypeId) {
-		this.tadaTypeId = tadaTypeId;
+	public void setLodBordId(Integer lodBordId) {
+		this.lodBordId = lodBordId;
 	}
 
-	public String getType() {
-		return type;
+	public String getDescription() {
+		return description;
 	}
 
-	public void setType(String type) {
-		this.type = type;
+	public void setDescription(String description) {
+		this.description = description;
 	}
 
-	public String getSubType() {
-		return subType;
+	public Integer getRateOfDa() {
+		return rateOfDa;
 	}
 
-	public void setSubType(String subType) {
-		this.subType = subType;
+	public void setRateOfDa(Integer rateOfDa) {
+		this.rateOfDa = rateOfDa;
 	}
 
 	public String getStatus() {
@@ -88,11 +90,19 @@ Integer tadaTypeId;
 		this.lastUpdatedDt = lastUpdatedDt;
 	}
 
+	public String getRemark() {
+		return remark;
+	}
+
+	public void setRemark(String remark) {
+		this.remark = remark;
+	}
+
 	@Override
 	public String toString() {
-		return "TadaTypeMst [tadaTypeId=" + tadaTypeId + ", type=" + type + ", subType=" + subType + ", status="
-				+ status + ", createdBy=" + createdBy + ", createdDt=" + createdDt + ", lastUpdatedBy=" + lastUpdatedBy
-				+ ", lastUpdatedDt=" + lastUpdatedDt + "]";
+		return "IndLodgBordingMst [lodBordId=" + lodBordId + ", description=" + description + ", rateOfDa=" + rateOfDa
+				+ ", status=" + status + ", createdBy=" + createdBy + ", createdDt=" + createdDt + ", lastUpdatedBy="
+				+ lastUpdatedBy + ", lastUpdatedDt=" + lastUpdatedDt + ", remark=" + remark + "]";
 	}
 	
 	
