@@ -32,4 +32,10 @@ public class IndLodgBordingMstServiceImpl implements IndLodgBordingMstService{
 		return false;
 	}
 
+	@Override
+	public List<IndLodgBordingMst> viewActiveLodgBordingDa() {
+		
+		return getDao().getActiveLodgBordingDa();
+	}
+
 }

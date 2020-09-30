@@ -13,12 +13,14 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import in.ecgc.smile.erp.hrd.reimbbe.model.CityClassMst;
+import in.ecgc.smile.erp.hrd.reimbbe.model.DomesticTada;
 import in.ecgc.smile.erp.hrd.reimbbe.model.IndForDaMst;
 import in.ecgc.smile.erp.hrd.reimbbe.model.IndLodgBordingMst;
 import in.ecgc.smile.erp.hrd.reimbbe.model.TadaCityMst;
 import in.ecgc.smile.erp.hrd.reimbbe.model.TadaTypeMst;
 import in.ecgc.smile.erp.hrd.reimbbe.model.TravelModeMst;
 import in.ecgc.smile.erp.hrd.reimbbe.service.CityClassMstService;
+import in.ecgc.smile.erp.hrd.reimbbe.service.DomesticTadaService;
 import in.ecgc.smile.erp.hrd.reimbbe.service.IndForDaMstService;
 import in.ecgc.smile.erp.hrd.reimbbe.service.IndLodgBordingMstService;
 import in.ecgc.smile.erp.hrd.reimbbe.service.TadaCityMstService;
@@ -28,7 +30,7 @@ import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 
 @RestController
-@RequestMapping("/hrd-tada/api")
+@RequestMapping("hrd-tada")
 @Api(value = "TADA Reimbursement Query BE Controller")//Swagger annotation
 public class TadaReimbQueryRestController {
 
@@ -51,6 +53,9 @@ public class TadaReimbQueryRestController {
 	
 	@Autowired
 	private IndLodgBordingMstService indLodBordMstService;
+	
+	@Autowired
+	private DomesticTadaService domTadaService;
 	
 	@ApiOperation(value = "View a list of active tada type", response = List.class)
 	@GetMapping("/active/tada-type")
@@ -123,5 +128,28 @@ public class TadaReimbQueryRestController {
 		LOGGER.info("Fetching all lodging/boarding da from master");
 		List<IndLodgBordingMst> lodgBordDaList = indLodBordMstService.viewAllLodgBordingDa();
 		return new ResponseEntity<>(lodgBordDaList, HttpStatus.OK);
+	}
+	
+	@GetMapping("/active/lodg-bord-da-mst")
+	public ResponseEntity<List<IndLodgBordingMst>> getActiveLodgBordingDa() {
+		LOGGER.info("Fetching active lodging/boarding da from master");
+		List<IndLodgBordingMst> lodgBordDaList = indLodBordMstService.viewActiveLodgBordingDa();
+		return new ResponseEntity<>(lodgBordDaList, HttpStatus.OK);
+	}
+	
+	@ApiOperation(value = "View pending domestic advance")
+	@GetMapping("/domestic-adv/{empNo}")
+	public ResponseEntity<List<DomesticTada>> getDomesticAdvListForSet(@PathVariable("empNo") int empNo){
+		LOGGER.info("Fetching pending domestic advance application");
+		List<DomesticTada> domAdvList = domTadaService.domesticAdvListForSet(empNo);
+		return new ResponseEntity<>(domAdvList, HttpStatus.OK);
+	}
+	
+	@ApiOperation(value = "View pending domestic advance by indTourId")
+	@GetMapping("/domestic-advid/{indTourId}")
+	public ResponseEntity<DomesticTada> getDomesticAdvForSet(@PathVariable("indTourId") int indTourId) {
+		LOGGER.info("Fetching pending domestic advance application");
+		DomesticTada domAdvList = domTadaService.domesticAdvForSet(indTourId);
+		return new ResponseEntity<>(domAdvList, HttpStatus.OK);
 	}
 }

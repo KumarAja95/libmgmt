@@ -14,9 +14,11 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import in.ecgc.smile.erp.hrd.reimbbe.model.DomesticTada;
 import in.ecgc.smile.erp.hrd.reimbbe.model.IndForDaMst;
 import in.ecgc.smile.erp.hrd.reimbbe.model.IndLodgBordingMst;
 import in.ecgc.smile.erp.hrd.reimbbe.model.TravelModeMst;
+import in.ecgc.smile.erp.hrd.reimbbe.service.DomesticTadaService;
 import in.ecgc.smile.erp.hrd.reimbbe.service.IndForDaMstService;
 import in.ecgc.smile.erp.hrd.reimbbe.service.IndLodgBordingMstService;
 import in.ecgc.smile.erp.hrd.reimbbe.service.TravelModeMstService;
@@ -24,7 +26,7 @@ import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 
 @RestController
-@RequestMapping("/hrd-tada/api")
+@RequestMapping("hrd-tada")
 @Api(value = "TADA Reimbursement Command BE Controller")//Swagger annotation
 public class TadaReimbCommandRestController {
 
@@ -37,6 +39,9 @@ public class TadaReimbCommandRestController {
 	
 	@Autowired
 	private IndLodgBordingMstService lodgBoardingMstService;
+	
+	@Autowired
+	private DomesticTadaService domTadaService;
 	
 	private static final Logger LOGGER=LoggerFactory.getLogger(TadaReimbCommandRestController.class);
 	
@@ -88,5 +93,23 @@ public class TadaReimbCommandRestController {
 		LOGGER.info("--Inside save lodging/boarding data--");
 		boolean result = lodgBoardingMstService.addLodgBoardingDa(lodgBoardingMst);
 	    return new ResponseEntity<>(result, HttpStatus.ACCEPTED);
+	}
+	
+	/* Save domestic tada advance data Return boolean value (true/false) */
+	@ApiOperation(value = "Save Domestic tada advance")	
+	@PostMapping("/domestic")
+	public ResponseEntity<Boolean> saveDomesticTadaAdv(@RequestBody DomesticTada domTada, Locale locale, Model model) {
+		LOGGER.info("--Inside save lodging/boarding data--");
+		boolean result = domTadaService.addDomesticTadaAdv(domTada);
+	    return new ResponseEntity<>(result, HttpStatus.CREATED);
+	}
+	
+	/* Save domestic tada advance data Return boolean value (true/false) */
+	@ApiOperation(value = "Update lodging/boarding DA")	
+	@PostMapping("/domestic-set")
+	public ResponseEntity<Boolean> saveDomesticTadaSet(@RequestBody DomesticTada domTada, Locale locale, Model model) {
+		LOGGER.info("--Inside save lodging/boarding data--");
+		boolean result = domTadaService.saveDomesticTadaSet(domTada);
+	    return new ResponseEntity<>(result, HttpStatus.CREATED);
 	}
 }
