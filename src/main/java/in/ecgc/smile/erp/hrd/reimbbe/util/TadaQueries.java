@@ -54,6 +54,9 @@ public interface TadaQueries {
 	String GET_ALL_LODG_BORD_DA_MST = "SELECT tada_ind_lod_brd_id, description, rate_of_da, status, meta_remarks "
 			+ "FROM emp_reimb.ecgc_hrd_tada_ind_lodging_boarding_mst";
 	
+	String GET_ACTIVE_LODG_BORD_DA_MST = "SELECT tada_ind_lod_brd_id, description, rate_of_da "
+			+ "FROM emp_reimb.ecgc_hrd_tada_ind_lodging_boarding_mst WHERE status='A'";
+	
 	String INSERT_LODG_BORD_DA_MST = "INSERT INTO emp_reimb.ecgc_hrd_tada_ind_lodging_boarding_mst "
 			+ "(tada_ind_lod_brd_id, description, rate_of_da, status, meta_remarks) "
 			+ "VALUES(:lodgBoardingDaId, :description, :rateOfDa, :status, :remark) ";
@@ -67,8 +70,9 @@ public interface TadaQueries {
 			+ "VALUES(:indTourId, :advSetFlg, :empNo, :purpose, :tourType, :depdt, :depTrvlMode, :depTrainType, :depTrvlClss, "
 			+ ":arrDt, :arrTrvlMode, :arrTrainType, :arrTrvlClss, :depfare, :totalExp, :amtClaimed, :arrFare, :daysPeriod, :actWrkDays, :city, "
 			+ ":applicationDt, :othExp, :totalDa, :eligibleDa, :conveyanceExp, :hotelExp, :hotelTax, :cityClss, :cityCatgId, "
-			+ ":actDepTime, :depdtTm, :depTmTime, :arrTmTime, :arrTmDt, :officeAccomo, :boardingLodging, "
-			+ ":retDepTmTime, :retDepTmDate, :retArrTmTime, :retArrTmDate, :arrTime)";
+			+ "to_timestamp(:actDepTime, 'hh24:mi'), to_timestamp(:depdtTm, 'hh24:mi'), to_timestamp(:depTmTime, 'hh24:mi'), to_timestamp(:arrTmTime, 'hh24:mi'), "
+			+ ":arrTmDt, :officeAccomo, :boardingLodging, "
+			+ "to_timestamp(:retDepTmTime, 'hh24:mi'), :retDepTmDate, to_timestamp(:retArrTmTime, 'hh24:mi'), :retArrTmDate, to_timestamp(:arrTime, 'hh24:mi'))";
 	
 	String SELECT_DOMESTIC_ADV_FOR_SET = "SELECT ind_tour_id, emp_no, purpose, tour_type, total_expenses, amt_claimed, application_date, total_appr "
 			+ "FROM emp_reimb.ecgc_hrd_tada_ind_dtl_trn int_dtl_trn "

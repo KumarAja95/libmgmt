@@ -9,4 +9,6 @@ public interface IndLodgBordingMstDao {
 	public List<IndLodgBordingMst> getAllLodgBordingDa();
 	
 	public int saveLodgBoardingDa(IndLodgBordingMst lodgBoardingMst);
+	
+	public List<IndLodgBordingMst> getActiveLodgBordingDa(); 
 }

@@ -68,5 +68,22 @@ public class IndLodgBordingMstDaoImpl implements IndLodgBordingMstDao{
 		return result;
 	}
 
+	@Override
+	public List<IndLodgBordingMst> getActiveLodgBordingDa() {
+		
+		return jdbcOperations.query(TadaQueries.GET_ACTIVE_LODG_BORD_DA_MST, 
+				 new RowMapper<IndLodgBordingMst>() {
+			@Override
+			public IndLodgBordingMst mapRow(ResultSet rs, int rowNum) throws SQLException {
+				IndLodgBordingMst indLodBord = new IndLodgBordingMst(); 
+				indLodBord.setLodBordId(rs.getInt("tada_ind_lod_brd_id"));
+				indLodBord.setDescription(rs.getString("description"));
+				indLodBord.setRateOfDa(rs.getInt("rate_of_da"));
+				
+				return indLodBord;
+			}
+		});
+	}
+
 	
 }
