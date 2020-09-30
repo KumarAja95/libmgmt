@@ -57,4 +57,34 @@ public interface TadaQueries {
 	String INSERT_LODG_BORD_DA_MST = "INSERT INTO emp_reimb.ecgc_hrd_tada_ind_lodging_boarding_mst "
 			+ "(tada_ind_lod_brd_id, description, rate_of_da, status, meta_remarks) "
 			+ "VALUES(:lodgBoardingDaId, :description, :rateOfDa, :status, :remark) ";
+	
+	String INSERT_DOMESTIC_TADA_DTL = "INSERT INTO emp_reimb.ecgc_hrd_tada_ind_dtl_trn "
+			+ "(ind_tour_id, adv_settle_flg, emp_no, purpose, tour_type, dep_dt, dep_travel_mode, dep_train_type, dep_travel_class, "
+			+ "arr_dt, arr_travel_mode, arr_train_type, arr_travel_class, dep_fare, total_expenses, amt_claimed, arr_fare, days_period, act_work_days, city_name, "
+			+ "application_date, oth_exp, total_da, eligible_da, conveyance_exp, hotel_exp, hotel_tax, city_class, city_category_id, "
+			+ "act_dep_to_time, dep_dt_tm, dep_from_tm_time, arrival_tm_time, arr_tm_dt, office_accommodation, boarding_lodging, "
+			+ "ret_dep_tm_time, ret_dep_tm_dt, ret_arr_tm_time, ret_arr_tm_dt, arr_time) "
+			+ "VALUES(:indTourId, :advSetFlg, :empNo, :purpose, :tourType, :depdt, :depTrvlMode, :depTrainType, :depTrvlClss, "
+			+ ":arrDt, :arrTrvlMode, :arrTrainType, :arrTrvlClss, :depfare, :totalExp, :amtClaimed, :arrFare, :daysPeriod, :actWrkDays, :city, "
+			+ ":applicationDt, :othExp, :totalDa, :eligibleDa, :conveyanceExp, :hotelExp, :hotelTax, :cityClss, :cityCatgId, "
+			+ ":actDepTime, :depdtTm, :depTmTime, :arrTmTime, :arrTmDt, :officeAccomo, :boardingLodging, "
+			+ ":retDepTmTime, :retDepTmDate, :retArrTmTime, :retArrTmDate, :arrTime)";
+	
+	String SELECT_DOMESTIC_ADV_FOR_SET = "SELECT ind_tour_id, emp_no, purpose, tour_type, total_expenses, amt_claimed, application_date, total_appr "
+			+ "FROM emp_reimb.ecgc_hrd_tada_ind_dtl_trn int_dtl_trn "
+			+ "LEFT JOIN emp_reimb.hrd_ltc_tada_adv_set_mapping_trn adv_set_map_trn on  int_dtl_trn.ind_tour_id = adv_set_map_trn.adv_id "
+			+ "where adv_set_map_trn.adv_id is null and int_dtl_trn.emp_no=? and int_dtl_trn.adv_settle_flg='A';";
+
+	String SELECT_DOMESTIC_ADV_BY_TOUR_ID = "SELECT ind_tour_id, emp_no, purpose, tour_type, dep_dt, dep_travel_mode, dep_train_type, "
+			+ "dep_travel_class, arr_dt, arr_travel_mode, arr_train_type, arr_travel_class, dep_fare, total_expenses, amt_claimed, "
+			+ "amt_approved, arr_fare, days_period, act_work_days, city_name, application_date, oth_exp, total_da, eligible_da, "
+			+ "conveyance_exp, hotel_exp, hotel_tax, city_class, city_category_id, act_dep_to_time, dep_dt_tm, dep_from_tm_time, "
+			+ "arrival_tm_time, arr_tm_dt, office_accommodation, boarding_lodging, ret_dep_tm_time, ret_dep_tm_dt, ret_arr_tm_time, "
+			+ "ret_arr_tm_dt, arr_time "
+			+ "FROM emp_reimb.ecgc_hrd_tada_ind_dtl_trn "
+			+ "WHERE ind_tour_id=?";
+	
+	String INSERT_ADV_SET_MAPPING = "INSERT INTO emp_reimb.hrd_ltc_tada_adv_set_mapping_trn "
+			+ "(adv_set_id, process_id, set_id, adv_id) "
+			+ "VALUES(:advSetId, :process, :setId, :advId)";
 }
