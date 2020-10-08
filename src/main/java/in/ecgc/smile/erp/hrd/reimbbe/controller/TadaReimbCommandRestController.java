@@ -86,12 +86,20 @@ public class TadaReimbCommandRestController {
 	}
 	
 	/* Save lodging/boarding da data Return boolean value (true/false) */
-	@ApiOperation(value = "Update lodging/boarding DA")						//Swagger Annotation 
+	@ApiOperation(value = "Save lodging/boarding DA")						//Swagger Annotation 
 	@PostMapping("/lodg-bord-da-mst")
 	public ResponseEntity<Boolean> saveLodgBoardingDa(@RequestBody IndLodgBordingMst lodgBoardingMst,Locale locale, Model model) {
 
 		LOGGER.info("--Inside save lodging/boarding data--");
 		boolean result = lodgBoardingMstService.addLodgBoardingDa(lodgBoardingMst);
+	    return new ResponseEntity<>(result, HttpStatus.CREATED);
+	}
+	
+	@ApiOperation(value = "Update lodging/boarding DA")						//Swagger Annotation
+	@PutMapping("/lodg-bord-da-mst")
+	public ResponseEntity<Boolean> updateLodgBoardingDa(@RequestBody IndLodgBordingMst lodgBoardingMst) {
+		LOGGER.info("--Inside update lodging/boarding data--");
+		boolean result = lodgBoardingMstService.modifyLodgBoardingDa(lodgBoardingMst);
 	    return new ResponseEntity<>(result, HttpStatus.ACCEPTED);
 	}
 	
@@ -105,10 +113,10 @@ public class TadaReimbCommandRestController {
 	}
 	
 	/* Save domestic tada advance data Return boolean value (true/false) */
-	@ApiOperation(value = "Update lodging/boarding DA")	
+	@ApiOperation(value = "Save Domestic tada settlement")	
 	@PostMapping("/domestic-set")
 	public ResponseEntity<Boolean> saveDomesticTadaSet(@RequestBody DomesticTada domTada, Locale locale, Model model) {
-		LOGGER.info("--Inside save lodging/boarding data--");
+		LOGGER.info("--Inside save domestic tada settlement--");
 		boolean result = domTadaService.saveDomesticTadaSet(domTada);
 	    return new ResponseEntity<>(result, HttpStatus.CREATED);
 	}

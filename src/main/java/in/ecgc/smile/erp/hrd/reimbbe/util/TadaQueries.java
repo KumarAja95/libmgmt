@@ -61,6 +61,10 @@ public interface TadaQueries {
 			+ "(tada_ind_lod_brd_id, description, rate_of_da, status, meta_remarks) "
 			+ "VALUES(:lodgBoardingDaId, :description, :rateOfDa, :status, :remark) ";
 	
+	String UPDATE_LODG_BORD_DA_MST = "UPDATE emp_reimb.ecgc_hrd_tada_ind_lodging_boarding_mst "
+			+ "SET description=:description, rate_of_da=:rateOfDa, status=:status, meta_remarks=:remark "
+			+ "WHERE tada_ind_lod_brd_id=:lodgBoardingDaId";
+	
 	String INSERT_DOMESTIC_TADA_DTL = "INSERT INTO emp_reimb.ecgc_hrd_tada_ind_dtl_trn "
 			+ "(ind_tour_id, adv_settle_flg, emp_no, purpose, tour_type, dep_dt, dep_travel_mode, dep_train_type, dep_travel_class, "
 			+ "arr_dt, arr_travel_mode, arr_train_type, arr_travel_class, dep_fare, total_expenses, amt_claimed, arr_fare, days_period, act_work_days, city_name, "
