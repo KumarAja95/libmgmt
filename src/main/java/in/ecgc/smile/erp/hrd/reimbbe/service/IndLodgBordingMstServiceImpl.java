@@ -38,4 +38,10 @@ public class IndLodgBordingMstServiceImpl implements IndLodgBordingMstService{
 		return getDao().getActiveLodgBordingDa();
 	}
 
+	@Override
+	public boolean modifyLodgBoardingDa(IndLodgBordingMst lodgBoardingMst) {
+
+		return (getDao().updateLodgBoardingDa(lodgBoardingMst) == 1 ? true : false);
+	}
+
 }

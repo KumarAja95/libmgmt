@@ -85,5 +85,16 @@ public class IndLodgBordingMstDaoImpl implements IndLodgBordingMstDao{
 		});
 	}
 
-	
+	@Override
+	public int updateLodgBoardingDa(IndLodgBordingMst lodgBoardingMst) {
+		
+		Map<String, Object> namedParameters = new HashMap<>();
+		namedParameters.put("lodgBoardingDaId", lodgBoardingMst.getLodBordId());
+		namedParameters.put("description", lodgBoardingMst.getDescription());
+		namedParameters.put("rateOfDa", lodgBoardingMst.getRateOfDa());
+		namedParameters.put("status", lodgBoardingMst.getStatus());
+		namedParameters.put("remark", lodgBoardingMst.getRemark());
+		
+		return namedParameterJdbcOperations.update(TadaQueries.UPDATE_LODG_BORD_DA_MST, namedParameters);
+	}
 }

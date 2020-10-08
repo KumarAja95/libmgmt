@@ -10,5 +10,7 @@ public interface IndLodgBordingMstDao {
 	
 	public int saveLodgBoardingDa(IndLodgBordingMst lodgBoardingMst);
 	
-	public List<IndLodgBordingMst> getActiveLodgBordingDa(); 
+	public List<IndLodgBordingMst> getActiveLodgBordingDa();
+	
+	public int updateLodgBoardingDa(IndLodgBordingMst lodgBoardingMst);
 }

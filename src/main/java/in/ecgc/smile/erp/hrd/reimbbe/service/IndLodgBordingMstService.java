@@ -11,4 +11,6 @@ public interface IndLodgBordingMstService {
 	public boolean addLodgBoardingDa(IndLodgBordingMst lodgBoardingMst);
 	
 	public List<IndLodgBordingMst> viewActiveLodgBordingDa();
+	
+	public boolean modifyLodgBoardingDa(IndLodgBordingMst lodgBoardingMst);
 }
