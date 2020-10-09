@@ -43,11 +43,6 @@ public class LtcEmployeeController {
 	private EmployeeService empService;
 	
 	
-	
-	
-	
-	
-	
 	@ApiOperation(value = "View employee based on id")
 	@GetMapping("/employees/{empNo}")
 	public ResponseEntity<Employee> getEmployeeById(@PathVariable("empNo") Integer empNo){
