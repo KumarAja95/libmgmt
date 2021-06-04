@@ -1,128 +1,727 @@
-2020-10-06 00:04:10 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 00:09:10 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 00:14:10 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 00:19:10 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 00:24:10 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 00:29:10 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 00:34:10 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 00:39:10 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 00:44:10 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 00:49:10 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 00:54:10 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 00:59:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 01:04:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 01:09:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 01:14:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 01:19:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 01:24:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 01:29:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 01:34:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 01:39:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 01:44:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 01:49:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 01:54:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 01:59:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 02:04:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 02:09:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 02:14:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 02:19:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 02:24:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 02:29:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 02:34:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 02:39:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 02:44:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 02:49:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 02:54:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 02:59:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 03:04:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 03:09:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 03:14:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 03:19:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 03:24:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 03:29:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 03:34:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 03:39:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 03:44:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 03:49:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 03:54:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 03:59:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 04:04:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 04:09:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 04:14:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 04:19:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 04:24:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 04:29:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 04:34:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 04:39:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 04:44:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 04:49:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 04:54:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 04:59:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 05:04:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 05:09:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 05:14:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 05:19:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 05:24:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 05:29:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 05:34:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 05:39:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 05:44:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 05:49:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 05:54:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 05:59:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 06:04:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 06:09:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 06:14:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 06:19:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 06:24:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 06:29:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 06:34:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 06:39:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 06:44:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 06:49:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 06:54:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 06:59:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 07:04:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 07:09:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 07:14:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 07:19:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 07:24:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 07:29:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 07:34:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 07:39:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 07:44:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 07:49:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 07:54:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 07:59:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 08:04:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 08:09:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 08:14:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 08:19:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 08:24:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 08:29:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 08:34:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 08:39:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 08:44:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 08:49:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 08:54:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 08:59:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 09:04:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 09:09:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 09:14:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 09:19:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 09:24:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 09:29:11 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
-2020-10-06 09:32:34 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
-2020-10-06 09:32:34 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application HRD-REIMB-BE with eureka with status DOWN
-2020-10-06 09:32:34 [RMI TCP Connection(2)-127.0.0.1] WARN  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1601956954853, current=DOWN, previous=UP]
-2020-10-06 09:32:34 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/cmj-ecgc25.cdacmumbai.in:hrd-reimb-be:8093: registering service...
-2020-10-06 09:32:34 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/cmj-ecgc25.cdacmumbai.in:hrd-reimb-be:8093 - registration status: 204
-2020-10-06 09:32:34 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
-2020-10-06 09:32:34 [RMI TCP Connection(2)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
-2020-10-06 09:32:34 [RMI TCP Connection(2)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
-2020-10-06 09:32:34 [RMI TCP Connection(2)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
-2020-10-06 09:32:37 [RMI TCP Connection(2)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - Unregistering ...
-2020-10-06 09:32:37 [RMI TCP Connection(2)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/cmj-ecgc25.cdacmumbai.in:hrd-reimb-be:8093 - deregister  status: 200
-2020-10-06 09:32:37 [RMI TCP Connection(2)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
-2020-10-06 09:32:38 [RMI TCP Connection(2)-127.0.0.1] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
-2020-10-06 09:32:38 [RMI TCP Connection(2)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-06-04 19:40:48 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://localhost:8888
+2021-06-04 19:40:50 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2021-06-04 19:40:50 [restartedMain] WARN  o.s.c.c.c.ConfigServicePropertySourceLocator - Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/hrd-reimb-be/default": Connection refused: no further information; nested exception is java.net.ConnectException: Connection refused: no further information
+2021-06-04 19:40:50 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - No active profile set, falling back to default profiles: default
+2021-06-04 19:40:51 [restartedMain] WARN  o.s.boot.actuate.endpoint.EndpointId - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2021-06-04 19:40:51 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=ed8cef70-1760-3b9b-b889-d44cf75e1eea
+2021-06-04 19:40:52 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8093 (http)
+2021-06-04 19:40:52 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-06-04 19:40:52 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2021-06-04 19:40:52 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-06-04 19:40:52 [restartedMain] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2081 ms
+2021-06-04 19:40:52 [restartedMain] WARN  c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-06-04 19:40:52 [restartedMain] INFO  c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-06-04 19:40:52 [restartedMain] INFO  c.n.config.DynamicPropertyFactory - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@4a38d7ac
+2021-06-04 19:40:53 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 19 endpoint(s) beneath base path '/actuator'
+2021-06-04 19:40:53 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-06-04 19:40:53 [restartedMain] WARN  c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-06-04 19:40:53 [restartedMain] INFO  c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-06-04 19:40:53 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-04 19:40:53 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-06-04 19:40:54 [restartedMain] WARN  o.s.c.l.c.BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2021-06-04 19:40:54 [restartedMain] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2021-06-04 19:40:54 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2021-06-04 19:40:54 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON encoding codec LegacyJacksonJson
+2021-06-04 19:40:54 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON decoding codec LegacyJacksonJson
+2021-06-04 19:40:54 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML encoding codec XStreamXml
+2021-06-04 19:40:54 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML decoding codec XStreamXml
+2021-06-04 19:40:55 [restartedMain] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2021-06-04 19:40:55 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2021-06-04 19:40:55 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2021-06-04 19:40:55 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2021-06-04 19:40:55 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2021-06-04 19:40:55 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2021-06-04 19:40:55 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+2021-06-04 19:40:55 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2021-06-04 19:40:55 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2021-06-04 19:40:55 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2021-06-04 19:40:55 [restartedMain] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2021-06-04 19:40:55 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1622815855377 with initial instances count: 0
+2021-06-04 19:40:55 [restartedMain] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application HRD-REIMB-BE with eureka with status UP
+2021-06-04 19:40:55 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1622815855380, current=UP, previous=STARTING]
+2021-06-04 19:40:55 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093: registering service...
+2021-06-04 19:40:55 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2021-06-04 19:40:55 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-06-04 19:40:55 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - registration status: 204
+2021-06-04 19:40:55 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2021-06-04 19:40:55 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8093 (http) with context path ''
+2021-06-04 19:40:55 [restartedMain] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 8093
+2021-06-04 19:40:55 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - Started HrdReimbBeApplication in 8.215 seconds (JVM running for 9.13)
+2021-06-04 19:41:25 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2021-06-04 19:41:25 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2021-06-04 19:41:25 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2021-06-04 19:41:25 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2021-06-04 19:41:25 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2021-06-04 19:41:25 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: false
+2021-06-04 19:41:25 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2021-06-04 19:41:25 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2021-06-04 19:43:32 [Thread-7] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application HRD-REIMB-BE with eureka with status DOWN
+2021-06-04 19:43:32 [Thread-7] WARN  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1622816012391, current=DOWN, previous=UP]
+2021-06-04 19:43:32 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093: registering service...
+2021-06-04 19:43:32 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - registration status: 204
+2021-06-04 19:43:32 [Thread-7] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-06-04 19:43:32 [Thread-7] INFO  c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+2021-06-04 19:43:35 [Thread-7] INFO  c.netflix.discovery.DiscoveryClient - Unregistering ...
+2021-06-04 19:43:35 [Thread-7] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - deregister  status: 200
+2021-06-04 19:43:36 [Thread-7] INFO  c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+2021-06-04 19:43:37 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://localhost:8888
+2021-06-04 19:43:39 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2021-06-04 19:43:39 [restartedMain] WARN  o.s.c.c.c.ConfigServicePropertySourceLocator - Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/hrd-reimb-be/default": Connection refused: no further information; nested exception is java.net.ConnectException: Connection refused: no further information
+2021-06-04 19:43:39 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - No active profile set, falling back to default profiles: default
+2021-06-04 19:43:40 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=ed8cef70-1760-3b9b-b889-d44cf75e1eea
+2021-06-04 19:43:40 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8093 (http)
+2021-06-04 19:43:40 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-06-04 19:43:40 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2021-06-04 19:43:40 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-06-04 19:43:40 [restartedMain] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1253 ms
+2021-06-04 19:43:41 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 19 endpoint(s) beneath base path '/actuator'
+2021-06-04 19:43:41 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-06-04 19:43:41 [restartedMain] WARN  c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-06-04 19:43:41 [restartedMain] INFO  c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-06-04 19:43:41 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-04 19:43:41 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-06-04 19:43:41 [restartedMain] WARN  o.s.c.l.c.BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2021-06-04 19:43:41 [restartedMain] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2021-06-04 19:43:41 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2021-06-04 19:43:41 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON encoding codec LegacyJacksonJson
+2021-06-04 19:43:41 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON decoding codec LegacyJacksonJson
+2021-06-04 19:43:41 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML encoding codec XStreamXml
+2021-06-04 19:43:41 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML decoding codec XStreamXml
+2021-06-04 19:43:42 [restartedMain] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2021-06-04 19:43:42 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2021-06-04 19:43:42 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2021-06-04 19:43:42 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2021-06-04 19:43:42 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2021-06-04 19:43:42 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2021-06-04 19:43:42 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+2021-06-04 19:43:42 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2021-06-04 19:43:42 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2021-06-04 19:43:42 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2021-06-04 19:43:42 [restartedMain] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2021-06-04 19:43:42 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1622816022520 with initial instances count: 1
+2021-06-04 19:43:42 [restartedMain] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application HRD-REIMB-BE with eureka with status UP
+2021-06-04 19:43:42 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1622816022525, current=UP, previous=STARTING]
+2021-06-04 19:43:42 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093: registering service...
+2021-06-04 19:43:42 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2021-06-04 19:43:42 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-06-04 19:43:42 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - registration status: 204
+2021-06-04 19:43:42 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2021-06-04 19:43:42 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8093 (http) with context path ''
+2021-06-04 19:43:42 [restartedMain] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 8093
+2021-06-04 19:43:42 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - Started HrdReimbBeApplication in 6.459 seconds (JVM running for 176.276)
+2021-06-04 19:43:42 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2021-06-04 19:48:42 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2021-06-04 19:51:46 [http-nio-8093-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-04 19:51:46 [http-nio-8093-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-06-04 19:51:46 [http-nio-8093-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2021-06-04 19:53:42 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2021-06-04 19:58:42 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2021-06-04 20:01:56 [http-nio-8093-exec-1] INFO  i.e.s.e.h.r.c.EmployeeController - --Fetching Employee by Id--
+2021-06-04 20:03:42 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2021-06-04 20:06:19 [Thread-11] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application HRD-REIMB-BE with eureka with status DOWN
+2021-06-04 20:06:19 [Thread-11] WARN  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1622817379689, current=DOWN, previous=UP]
+2021-06-04 20:06:19 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093: registering service...
+2021-06-04 20:06:19 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-06-04 20:06:19 [Thread-11] INFO  c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+2021-06-04 20:06:19 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - registration status: 204
+2021-06-04 20:06:19 [Thread-11] INFO  c.netflix.discovery.DiscoveryClient - Unregistering ...
+2021-06-04 20:06:19 [Thread-11] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - deregister  status: 200
+2021-06-04 20:06:20 [Thread-11] INFO  c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+2021-06-04 20:06:20 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://localhost:8888
+2021-06-04 20:06:22 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2021-06-04 20:06:22 [restartedMain] WARN  o.s.c.c.c.ConfigServicePropertySourceLocator - Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/hrd-reimb-be/default": Connection refused: no further information; nested exception is java.net.ConnectException: Connection refused: no further information
+2021-06-04 20:06:22 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - No active profile set, falling back to default profiles: default
+2021-06-04 20:06:23 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=ed8cef70-1760-3b9b-b889-d44cf75e1eea
+2021-06-04 20:06:23 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8093 (http)
+2021-06-04 20:06:23 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-06-04 20:06:23 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2021-06-04 20:06:23 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-06-04 20:06:23 [restartedMain] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 896 ms
+2021-06-04 20:06:24 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 19 endpoint(s) beneath base path '/actuator'
+2021-06-04 20:06:24 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-06-04 20:06:24 [restartedMain] WARN  c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-06-04 20:06:24 [restartedMain] INFO  c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-06-04 20:06:24 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-04 20:06:24 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-06-04 20:06:24 [restartedMain] WARN  o.s.c.l.c.BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2021-06-04 20:06:24 [restartedMain] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2021-06-04 20:06:24 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2021-06-04 20:06:24 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON encoding codec LegacyJacksonJson
+2021-06-04 20:06:24 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON decoding codec LegacyJacksonJson
+2021-06-04 20:06:24 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML encoding codec XStreamXml
+2021-06-04 20:06:24 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML decoding codec XStreamXml
+2021-06-04 20:06:24 [restartedMain] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2021-06-04 20:06:24 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2021-06-04 20:06:24 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2021-06-04 20:06:24 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2021-06-04 20:06:24 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2021-06-04 20:06:24 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2021-06-04 20:06:24 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+2021-06-04 20:06:24 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2021-06-04 20:06:24 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2021-06-04 20:06:24 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2021-06-04 20:06:24 [restartedMain] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2021-06-04 20:06:24 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1622817384840 with initial instances count: 1
+2021-06-04 20:06:24 [restartedMain] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application HRD-REIMB-BE with eureka with status UP
+2021-06-04 20:06:24 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1622817384841, current=UP, previous=STARTING]
+2021-06-04 20:06:24 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093: registering service...
+2021-06-04 20:06:24 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2021-06-04 20:06:24 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-06-04 20:06:24 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - registration status: 204
+2021-06-04 20:06:24 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2021-06-04 20:06:24 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8093 (http) with context path ''
+2021-06-04 20:06:24 [restartedMain] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 8093
+2021-06-04 20:06:25 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - Started HrdReimbBeApplication in 4.814 seconds (JVM running for 1538.406)
+2021-06-04 20:06:25 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2021-06-04 20:07:34 [Thread-19] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application HRD-REIMB-BE with eureka with status DOWN
+2021-06-04 20:07:34 [Thread-19] WARN  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1622817454089, current=DOWN, previous=UP]
+2021-06-04 20:07:34 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093: registering service...
+2021-06-04 20:07:34 [Thread-19] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-06-04 20:07:34 [Thread-19] INFO  c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+2021-06-04 20:07:34 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - registration status: 204
+2021-06-04 20:07:34 [Thread-19] INFO  c.netflix.discovery.DiscoveryClient - Unregistering ...
+2021-06-04 20:07:34 [Thread-19] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - deregister  status: 200
+2021-06-04 20:07:34 [Thread-19] INFO  c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+2021-06-04 20:07:34 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://localhost:8888
+2021-06-04 20:07:36 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2021-06-04 20:07:36 [restartedMain] WARN  o.s.c.c.c.ConfigServicePropertySourceLocator - Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/hrd-reimb-be/default": Connection refused: no further information; nested exception is java.net.ConnectException: Connection refused: no further information
+2021-06-04 20:07:36 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - No active profile set, falling back to default profiles: default
+2021-06-04 20:07:37 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=ed8cef70-1760-3b9b-b889-d44cf75e1eea
+2021-06-04 20:07:37 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8093 (http)
+2021-06-04 20:07:37 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-06-04 20:07:37 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2021-06-04 20:07:37 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-06-04 20:07:37 [restartedMain] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 768 ms
+2021-06-04 20:07:38 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 19 endpoint(s) beneath base path '/actuator'
+2021-06-04 20:07:38 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-06-04 20:07:38 [restartedMain] WARN  c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-06-04 20:07:38 [restartedMain] INFO  c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-06-04 20:07:38 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-04 20:07:38 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-06-04 20:07:38 [restartedMain] WARN  o.s.c.l.c.BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2021-06-04 20:07:38 [restartedMain] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2021-06-04 20:07:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2021-06-04 20:07:38 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON encoding codec LegacyJacksonJson
+2021-06-04 20:07:38 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON decoding codec LegacyJacksonJson
+2021-06-04 20:07:38 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML encoding codec XStreamXml
+2021-06-04 20:07:38 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML decoding codec XStreamXml
+2021-06-04 20:07:38 [restartedMain] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2021-06-04 20:07:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2021-06-04 20:07:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2021-06-04 20:07:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2021-06-04 20:07:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2021-06-04 20:07:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2021-06-04 20:07:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+2021-06-04 20:07:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2021-06-04 20:07:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2021-06-04 20:07:39 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2021-06-04 20:07:39 [restartedMain] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2021-06-04 20:07:39 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1622817459024 with initial instances count: 1
+2021-06-04 20:07:39 [restartedMain] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application HRD-REIMB-BE with eureka with status UP
+2021-06-04 20:07:39 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1622817459026, current=UP, previous=STARTING]
+2021-06-04 20:07:39 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093: registering service...
+2021-06-04 20:07:39 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2021-06-04 20:07:39 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-06-04 20:07:39 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - registration status: 204
+2021-06-04 20:07:39 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2021-06-04 20:07:39 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8093 (http) with context path ''
+2021-06-04 20:07:39 [restartedMain] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 8093
+2021-06-04 20:07:39 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - Started HrdReimbBeApplication in 4.635 seconds (JVM running for 1612.599)
+2021-06-04 20:07:39 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2021-06-04 20:08:02 [Thread-27] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application HRD-REIMB-BE with eureka with status DOWN
+2021-06-04 20:08:02 [Thread-27] WARN  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1622817482105, current=DOWN, previous=UP]
+2021-06-04 20:08:02 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093: registering service...
+2021-06-04 20:08:02 [Thread-27] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-06-04 20:08:02 [Thread-27] INFO  c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+2021-06-04 20:08:02 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - registration status: 204
+2021-06-04 20:08:02 [Thread-27] INFO  c.netflix.discovery.DiscoveryClient - Unregistering ...
+2021-06-04 20:08:02 [Thread-27] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - deregister  status: 200
+2021-06-04 20:08:02 [Thread-27] INFO  c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+2021-06-04 20:08:02 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://localhost:8888
+2021-06-04 20:08:04 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2021-06-04 20:08:04 [restartedMain] WARN  o.s.c.c.c.ConfigServicePropertySourceLocator - Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/hrd-reimb-be/default": Connection refused: no further information; nested exception is java.net.ConnectException: Connection refused: no further information
+2021-06-04 20:08:04 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - No active profile set, falling back to default profiles: default
+2021-06-04 20:08:05 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=ed8cef70-1760-3b9b-b889-d44cf75e1eea
+2021-06-04 20:08:05 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8093 (http)
+2021-06-04 20:08:05 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-06-04 20:08:05 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2021-06-04 20:08:05 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-06-04 20:08:05 [restartedMain] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 897 ms
+2021-06-04 20:08:06 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 19 endpoint(s) beneath base path '/actuator'
+2021-06-04 20:08:06 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-06-04 20:08:06 [restartedMain] WARN  c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-06-04 20:08:06 [restartedMain] INFO  c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-06-04 20:08:06 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-04 20:08:06 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-06-04 20:08:06 [restartedMain] WARN  o.s.c.l.c.BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2021-06-04 20:08:06 [restartedMain] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2021-06-04 20:08:06 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2021-06-04 20:08:06 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON encoding codec LegacyJacksonJson
+2021-06-04 20:08:06 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON decoding codec LegacyJacksonJson
+2021-06-04 20:08:06 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML encoding codec XStreamXml
+2021-06-04 20:08:06 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML decoding codec XStreamXml
+2021-06-04 20:08:07 [restartedMain] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2021-06-04 20:08:07 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2021-06-04 20:08:07 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2021-06-04 20:08:07 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2021-06-04 20:08:07 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2021-06-04 20:08:07 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2021-06-04 20:08:07 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+2021-06-04 20:08:07 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2021-06-04 20:08:07 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2021-06-04 20:08:07 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2021-06-04 20:08:07 [restartedMain] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2021-06-04 20:08:07 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1622817487223 with initial instances count: 1
+2021-06-04 20:08:07 [restartedMain] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application HRD-REIMB-BE with eureka with status UP
+2021-06-04 20:08:07 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1622817487225, current=UP, previous=STARTING]
+2021-06-04 20:08:07 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093: registering service...
+2021-06-04 20:08:07 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2021-06-04 20:08:07 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-06-04 20:08:07 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2021-06-04 20:08:07 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - registration status: 204
+2021-06-04 20:08:07 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8093 (http) with context path ''
+2021-06-04 20:08:07 [restartedMain] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 8093
+2021-06-04 20:08:07 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - Started HrdReimbBeApplication in 4.78 seconds (JVM running for 1640.785)
+2021-06-04 20:08:07 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2021-06-04 20:08:53 [Thread-35] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application HRD-REIMB-BE with eureka with status DOWN
+2021-06-04 20:08:53 [Thread-35] WARN  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1622817533322, current=DOWN, previous=UP]
+2021-06-04 20:08:53 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093: registering service...
+2021-06-04 20:08:53 [Thread-35] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-06-04 20:08:53 [Thread-35] INFO  c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+2021-06-04 20:08:53 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - registration status: 204
+2021-06-04 20:08:53 [Thread-35] INFO  c.netflix.discovery.DiscoveryClient - Unregistering ...
+2021-06-04 20:08:53 [Thread-35] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - deregister  status: 200
+2021-06-04 20:08:53 [Thread-35] INFO  c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+2021-06-04 20:08:54 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://localhost:8888
+2021-06-04 20:08:56 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2021-06-04 20:08:56 [restartedMain] WARN  o.s.c.c.c.ConfigServicePropertySourceLocator - Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/hrd-reimb-be/default": Connection refused: no further information; nested exception is java.net.ConnectException: Connection refused: no further information
+2021-06-04 20:08:56 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - No active profile set, falling back to default profiles: default
+2021-06-04 20:08:56 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=ed8cef70-1760-3b9b-b889-d44cf75e1eea
+2021-06-04 20:08:56 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8093 (http)
+2021-06-04 20:08:56 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-06-04 20:08:56 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2021-06-04 20:08:56 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-06-04 20:08:56 [restartedMain] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 719 ms
+2021-06-04 20:08:57 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 19 endpoint(s) beneath base path '/actuator'
+2021-06-04 20:08:57 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-06-04 20:08:57 [restartedMain] WARN  c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-06-04 20:08:57 [restartedMain] INFO  c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-06-04 20:08:57 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-04 20:08:57 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-06-04 20:08:57 [restartedMain] WARN  o.s.c.l.c.BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2021-06-04 20:08:57 [restartedMain] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2021-06-04 20:08:57 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2021-06-04 20:08:57 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON encoding codec LegacyJacksonJson
+2021-06-04 20:08:57 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON decoding codec LegacyJacksonJson
+2021-06-04 20:08:57 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML encoding codec XStreamXml
+2021-06-04 20:08:57 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML decoding codec XStreamXml
+2021-06-04 20:08:58 [restartedMain] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2021-06-04 20:08:58 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2021-06-04 20:08:58 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2021-06-04 20:08:58 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2021-06-04 20:08:58 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2021-06-04 20:08:58 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2021-06-04 20:08:58 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+2021-06-04 20:08:58 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2021-06-04 20:08:58 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2021-06-04 20:08:58 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2021-06-04 20:08:58 [restartedMain] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2021-06-04 20:08:58 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1622817538208 with initial instances count: 1
+2021-06-04 20:08:58 [restartedMain] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application HRD-REIMB-BE with eureka with status UP
+2021-06-04 20:08:58 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1622817538210, current=UP, previous=STARTING]
+2021-06-04 20:08:58 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093: registering service...
+2021-06-04 20:08:58 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2021-06-04 20:08:58 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-06-04 20:08:58 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - registration status: 204
+2021-06-04 20:08:58 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2021-06-04 20:08:58 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8093 (http) with context path ''
+2021-06-04 20:08:58 [restartedMain] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 8093
+2021-06-04 20:08:58 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - Started HrdReimbBeApplication in 4.501 seconds (JVM running for 1691.756)
+2021-06-04 20:08:58 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2021-06-04 20:09:11 [Thread-43] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application HRD-REIMB-BE with eureka with status DOWN
+2021-06-04 20:09:11 [Thread-43] WARN  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1622817551239, current=DOWN, previous=UP]
+2021-06-04 20:09:11 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093: registering service...
+2021-06-04 20:09:11 [Thread-43] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-06-04 20:09:11 [Thread-43] INFO  c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+2021-06-04 20:09:11 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - registration status: 204
+2021-06-04 20:09:11 [Thread-43] INFO  c.netflix.discovery.DiscoveryClient - Unregistering ...
+2021-06-04 20:09:11 [Thread-43] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - deregister  status: 200
+2021-06-04 20:09:11 [Thread-43] INFO  c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+2021-06-04 20:09:12 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://localhost:8888
+2021-06-04 20:09:14 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2021-06-04 20:09:14 [restartedMain] WARN  o.s.c.c.c.ConfigServicePropertySourceLocator - Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/hrd-reimb-be/default": Connection refused: no further information; nested exception is java.net.ConnectException: Connection refused: no further information
+2021-06-04 20:09:14 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - No active profile set, falling back to default profiles: default
+2021-06-04 20:09:14 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=ed8cef70-1760-3b9b-b889-d44cf75e1eea
+2021-06-04 20:09:14 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8093 (http)
+2021-06-04 20:09:14 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-06-04 20:09:14 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2021-06-04 20:09:14 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-06-04 20:09:14 [restartedMain] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 720 ms
+2021-06-04 20:09:15 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 19 endpoint(s) beneath base path '/actuator'
+2021-06-04 20:09:15 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-06-04 20:09:15 [restartedMain] WARN  c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-06-04 20:09:15 [restartedMain] INFO  c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-06-04 20:09:15 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-04 20:09:15 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-06-04 20:09:15 [restartedMain] WARN  o.s.c.l.c.BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2021-06-04 20:09:15 [restartedMain] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2021-06-04 20:09:15 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2021-06-04 20:09:15 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON encoding codec LegacyJacksonJson
+2021-06-04 20:09:15 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON decoding codec LegacyJacksonJson
+2021-06-04 20:09:15 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML encoding codec XStreamXml
+2021-06-04 20:09:15 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML decoding codec XStreamXml
+2021-06-04 20:09:16 [restartedMain] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2021-06-04 20:09:16 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2021-06-04 20:09:16 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2021-06-04 20:09:16 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2021-06-04 20:09:16 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2021-06-04 20:09:16 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2021-06-04 20:09:16 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+2021-06-04 20:09:16 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2021-06-04 20:09:16 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2021-06-04 20:09:16 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2021-06-04 20:09:16 [restartedMain] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2021-06-04 20:09:16 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1622817556113 with initial instances count: 1
+2021-06-04 20:09:16 [restartedMain] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application HRD-REIMB-BE with eureka with status UP
+2021-06-04 20:09:16 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1622817556115, current=UP, previous=STARTING]
+2021-06-04 20:09:16 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093: registering service...
+2021-06-04 20:09:16 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2021-06-04 20:09:16 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-06-04 20:09:16 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - registration status: 204
+2021-06-04 20:09:16 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2021-06-04 20:09:16 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8093 (http) with context path ''
+2021-06-04 20:09:16 [restartedMain] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 8093
+2021-06-04 20:09:16 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - Started HrdReimbBeApplication in 4.521 seconds (JVM running for 1709.668)
+2021-06-04 20:09:16 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2021-06-04 20:09:29 [Thread-51] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application HRD-REIMB-BE with eureka with status DOWN
+2021-06-04 20:09:29 [Thread-51] WARN  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1622817569201, current=DOWN, previous=UP]
+2021-06-04 20:09:29 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093: registering service...
+2021-06-04 20:09:29 [Thread-51] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-06-04 20:09:29 [Thread-51] INFO  c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+2021-06-04 20:09:29 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - registration status: 204
+2021-06-04 20:09:29 [Thread-51] INFO  c.netflix.discovery.DiscoveryClient - Unregistering ...
+2021-06-04 20:09:29 [Thread-51] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - deregister  status: 200
+2021-06-04 20:09:29 [Thread-51] INFO  c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+2021-06-04 20:09:30 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://localhost:8888
+2021-06-04 20:09:32 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2021-06-04 20:09:32 [restartedMain] WARN  o.s.c.c.c.ConfigServicePropertySourceLocator - Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/hrd-reimb-be/default": Connection refused: no further information; nested exception is java.net.ConnectException: Connection refused: no further information
+2021-06-04 20:09:32 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - No active profile set, falling back to default profiles: default
+2021-06-04 20:09:32 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [in.ecgc.smile.erp.hrd.reimbbe.HrdReimbBeApplication]; nested exception is java.io.FileNotFoundException: class path resource [errormap.properties] cannot be opened because it does not exist
+2021-06-04 20:09:32 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-06-04 20:09:32 [restartedMain] ERROR o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [in.ecgc.smile.erp.hrd.reimbbe.HrdReimbBeApplication]; nested exception is java.io.FileNotFoundException: class path resource [errormap.properties] cannot be opened because it does not exist
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:188) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:319) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:236) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:275) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:95) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:706) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:532) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141) ~[spring-boot-2.2.6.RELEASE.jar:2.2.6.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747) ~[spring-boot-2.2.6.RELEASE.jar:2.2.6.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) ~[spring-boot-2.2.6.RELEASE.jar:2.2.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) ~[spring-boot-2.2.6.RELEASE.jar:2.2.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226) ~[spring-boot-2.2.6.RELEASE.jar:2.2.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215) ~[spring-boot-2.2.6.RELEASE.jar:2.2.6.RELEASE]
+	at in.ecgc.smile.erp.hrd.reimbbe.HrdReimbBeApplication.main(HrdReimbBeApplication.java:12) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.2.6.RELEASE.jar:2.2.6.RELEASE]
+Caused by: java.io.FileNotFoundException: class path resource [errormap.properties] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:180) ~[spring-core-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.core.io.support.EncodedResource.getInputStream(EncodedResource.java:159) ~[spring-core-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:99) ~[spring-core-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:73) ~[spring-core-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.core.io.support.PropertiesLoaderUtils.loadProperties(PropertiesLoaderUtils.java:59) ~[spring-core-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.core.io.support.ResourcePropertySource.<init>(ResourcePropertySource.java:67) ~[spring-core-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.core.io.support.DefaultPropertySourceFactory.createPropertySource(DefaultPropertySourceFactory.java:37) ~[spring-core-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassParser.processPropertySource(ConfigurationClassParser.java:462) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:279) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:249) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:198) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:303) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:249) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:206) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:174) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	... 18 common frames omitted
+2021-06-04 20:10:54 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://localhost:8888
+2021-06-04 20:10:56 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2021-06-04 20:10:56 [restartedMain] WARN  o.s.c.c.c.ConfigServicePropertySourceLocator - Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/hrd-reimb-be/default": Connection refused: no further information; nested exception is java.net.ConnectException: Connection refused: no further information
+2021-06-04 20:10:56 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - No active profile set, falling back to default profiles: default
+2021-06-04 20:10:56 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [in.ecgc.smile.erp.hrd.reimbbe.HrdReimbBeApplication]; nested exception is java.io.FileNotFoundException: class path resource [errormap.properties] cannot be opened because it does not exist
+2021-06-04 20:10:56 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-06-04 20:10:56 [restartedMain] ERROR o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [in.ecgc.smile.erp.hrd.reimbbe.HrdReimbBeApplication]; nested exception is java.io.FileNotFoundException: class path resource [errormap.properties] cannot be opened because it does not exist
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:188) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:319) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:236) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:275) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:95) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:706) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:532) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141) ~[spring-boot-2.2.6.RELEASE.jar:2.2.6.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747) ~[spring-boot-2.2.6.RELEASE.jar:2.2.6.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) ~[spring-boot-2.2.6.RELEASE.jar:2.2.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) ~[spring-boot-2.2.6.RELEASE.jar:2.2.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226) ~[spring-boot-2.2.6.RELEASE.jar:2.2.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215) ~[spring-boot-2.2.6.RELEASE.jar:2.2.6.RELEASE]
+	at in.ecgc.smile.erp.hrd.reimbbe.HrdReimbBeApplication.main(HrdReimbBeApplication.java:12) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.2.6.RELEASE.jar:2.2.6.RELEASE]
+Caused by: java.io.FileNotFoundException: class path resource [errormap.properties] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:180) ~[spring-core-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.core.io.support.EncodedResource.getInputStream(EncodedResource.java:159) ~[spring-core-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:99) ~[spring-core-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:73) ~[spring-core-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.core.io.support.PropertiesLoaderUtils.loadProperties(PropertiesLoaderUtils.java:59) ~[spring-core-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.core.io.support.ResourcePropertySource.<init>(ResourcePropertySource.java:67) ~[spring-core-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.core.io.support.DefaultPropertySourceFactory.createPropertySource(DefaultPropertySourceFactory.java:37) ~[spring-core-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassParser.processPropertySource(ConfigurationClassParser.java:462) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:279) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:249) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:198) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:303) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:249) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:206) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:174) ~[spring-context-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	... 18 common frames omitted
+2021-06-04 20:11:35 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://localhost:8888
+2021-06-04 20:11:37 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2021-06-04 20:11:37 [restartedMain] WARN  o.s.c.c.c.ConfigServicePropertySourceLocator - Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/hrd-reimb-be/default": Connection refused: no further information; nested exception is java.net.ConnectException: Connection refused: no further information
+2021-06-04 20:11:37 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - No active profile set, falling back to default profiles: default
+2021-06-04 20:11:37 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=67d59029-b68a-323d-9786-bf4abf8dada7
+2021-06-04 20:11:37 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8093 (http)
+2021-06-04 20:11:37 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-06-04 20:11:37 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2021-06-04 20:11:37 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-06-04 20:11:37 [restartedMain] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 509 ms
+2021-06-04 20:11:38 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 19 endpoint(s) beneath base path '/actuator'
+2021-06-04 20:11:38 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-06-04 20:11:38 [restartedMain] WARN  c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-06-04 20:11:38 [restartedMain] INFO  c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-06-04 20:11:38 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-04 20:11:38 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-06-04 20:11:38 [restartedMain] WARN  o.s.c.l.c.BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2021-06-04 20:11:38 [restartedMain] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2021-06-04 20:11:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2021-06-04 20:11:38 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON encoding codec LegacyJacksonJson
+2021-06-04 20:11:38 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON decoding codec LegacyJacksonJson
+2021-06-04 20:11:38 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML encoding codec XStreamXml
+2021-06-04 20:11:38 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML decoding codec XStreamXml
+2021-06-04 20:11:38 [restartedMain] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2021-06-04 20:11:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2021-06-04 20:11:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2021-06-04 20:11:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2021-06-04 20:11:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2021-06-04 20:11:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2021-06-04 20:11:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+2021-06-04 20:11:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2021-06-04 20:11:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2021-06-04 20:11:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2021-06-04 20:11:38 [restartedMain] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2021-06-04 20:11:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1622817698732 with initial instances count: 0
+2021-06-04 20:11:38 [restartedMain] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application HRD-REIMB-BE with eureka with status UP
+2021-06-04 20:11:38 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1622817698734, current=UP, previous=STARTING]
+2021-06-04 20:11:38 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093: registering service...
+2021-06-04 20:11:38 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2021-06-04 20:11:38 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-06-04 20:11:38 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2021-06-04 20:11:38 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - registration status: 204
+2021-06-04 20:11:38 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8093 (http) with context path ''
+2021-06-04 20:11:38 [restartedMain] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 8093
+2021-06-04 20:11:38 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - Started HrdReimbBeApplication in 4.034 seconds (JVM running for 1852.324)
+2021-06-04 20:11:38 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+    None
+
+
+Negative matches:
+-----------------
+
+   MessageSourceAutoConfiguration:
+      Did not match:
+         - ResourceBundle did not find bundle with basename messages (MessageSourceAutoConfiguration.ResourceBundleCondition)
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+2021-06-04 20:11:50 [http-nio-8093-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-04 20:11:50 [http-nio-8093-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-06-04 20:11:50 [http-nio-8093-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2021-06-04 20:11:50 [http-nio-8093-exec-2] INFO  i.e.s.e.h.r.c.EmployeeController - --Fetching Employee by Id--
+2021-06-04 20:12:08 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2021-06-04 20:12:08 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2021-06-04 20:12:08 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2021-06-04 20:12:08 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2021-06-04 20:12:08 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2021-06-04 20:12:08 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: false
+2021-06-04 20:12:08 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2021-06-04 20:12:08 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2021-06-04 20:12:15 [Thread-59] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application HRD-REIMB-BE with eureka with status DOWN
+2021-06-04 20:12:15 [Thread-59] WARN  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1622817735387, current=DOWN, previous=UP]
+2021-06-04 20:12:15 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093: registering service...
+2021-06-04 20:12:15 [Thread-59] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-06-04 20:12:15 [Thread-59] INFO  c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+2021-06-04 20:12:15 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - registration status: 204
+2021-06-04 20:12:15 [Thread-59] INFO  c.netflix.discovery.DiscoveryClient - Unregistering ...
+2021-06-04 20:12:15 [Thread-59] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - deregister  status: 200
+2021-06-04 20:12:15 [Thread-59] INFO  c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+2021-06-04 20:12:16 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://localhost:8888
+2021-06-04 20:12:18 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2021-06-04 20:12:18 [restartedMain] WARN  o.s.c.c.c.ConfigServicePropertySourceLocator - Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/hrd-reimb-be/default": Connection refused: no further information; nested exception is java.net.ConnectException: Connection refused: no further information
+2021-06-04 20:12:18 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - No active profile set, falling back to default profiles: default
+2021-06-04 20:12:18 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=67d59029-b68a-323d-9786-bf4abf8dada7
+2021-06-04 20:12:18 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8093 (http)
+2021-06-04 20:12:18 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-06-04 20:12:18 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2021-06-04 20:12:18 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-06-04 20:12:18 [restartedMain] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 702 ms
+2021-06-04 20:12:19 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 19 endpoint(s) beneath base path '/actuator'
+2021-06-04 20:12:19 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-06-04 20:12:19 [restartedMain] WARN  c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-06-04 20:12:19 [restartedMain] INFO  c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-06-04 20:12:19 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-04 20:12:19 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-06-04 20:12:19 [restartedMain] WARN  o.s.c.l.c.BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2021-06-04 20:12:19 [restartedMain] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2021-06-04 20:12:19 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2021-06-04 20:12:19 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON encoding codec LegacyJacksonJson
+2021-06-04 20:12:19 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON decoding codec LegacyJacksonJson
+2021-06-04 20:12:19 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML encoding codec XStreamXml
+2021-06-04 20:12:19 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML decoding codec XStreamXml
+2021-06-04 20:12:20 [restartedMain] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2021-06-04 20:12:20 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2021-06-04 20:12:20 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2021-06-04 20:12:20 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2021-06-04 20:12:20 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2021-06-04 20:12:20 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2021-06-04 20:12:20 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+2021-06-04 20:12:20 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2021-06-04 20:12:20 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2021-06-04 20:12:20 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2021-06-04 20:12:20 [restartedMain] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2021-06-04 20:12:20 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1622817740075 with initial instances count: 1
+2021-06-04 20:12:20 [restartedMain] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application HRD-REIMB-BE with eureka with status UP
+2021-06-04 20:12:20 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1622817740077, current=UP, previous=STARTING]
+2021-06-04 20:12:20 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093: registering service...
+2021-06-04 20:12:20 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2021-06-04 20:12:20 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-06-04 20:12:20 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - registration status: 204
+2021-06-04 20:12:20 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2021-06-04 20:12:20 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8093 (http) with context path ''
+2021-06-04 20:12:20 [restartedMain] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 8093
+2021-06-04 20:12:20 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - Started HrdReimbBeApplication in 4.37 seconds (JVM running for 1893.658)
+2021-06-04 20:12:20 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2021-06-04 20:15:03 [Thread-75] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application HRD-REIMB-BE with eureka with status DOWN
+2021-06-04 20:15:03 [Thread-75] WARN  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1622817903687, current=DOWN, previous=UP]
+2021-06-04 20:15:03 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093: registering service...
+2021-06-04 20:15:03 [Thread-75] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-06-04 20:15:03 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - registration status: 204
+2021-06-04 20:15:03 [Thread-75] INFO  c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+2021-06-04 20:15:06 [Thread-75] INFO  c.netflix.discovery.DiscoveryClient - Unregistering ...
+2021-06-04 20:15:06 [Thread-75] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - deregister  status: 200
+2021-06-04 20:15:07 [Thread-75] INFO  c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+2021-06-04 20:43:31 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://localhost:8888
+2021-06-04 20:43:34 [restartedMain] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2021-06-04 20:43:34 [restartedMain] WARN  o.s.c.c.c.ConfigServicePropertySourceLocator - Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/hrd-reimb-be/default": Connection refused: no further information; nested exception is java.net.ConnectException: Connection refused: no further information
+2021-06-04 20:43:34 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - No active profile set, falling back to default profiles: default
+2021-06-04 20:43:35 [restartedMain] WARN  o.s.boot.actuate.endpoint.EndpointId - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2021-06-04 20:43:35 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=67d59029-b68a-323d-9786-bf4abf8dada7
+2021-06-04 20:43:35 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8093 (http)
+2021-06-04 20:43:35 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-06-04 20:43:35 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2021-06-04 20:43:36 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-06-04 20:43:36 [restartedMain] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1817 ms
+2021-06-04 20:43:36 [restartedMain] WARN  c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-06-04 20:43:36 [restartedMain] INFO  c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-06-04 20:43:36 [restartedMain] INFO  c.n.config.DynamicPropertyFactory - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@5683062
+2021-06-04 20:43:36 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 19 endpoint(s) beneath base path '/actuator'
+2021-06-04 20:43:36 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-06-04 20:43:36 [restartedMain] WARN  c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-06-04 20:43:36 [restartedMain] INFO  c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-06-04 20:43:36 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-04 20:43:37 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-06-04 20:43:37 [restartedMain] WARN  o.s.c.l.c.BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2021-06-04 20:43:37 [restartedMain] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2021-06-04 20:43:37 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2021-06-04 20:43:37 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON encoding codec LegacyJacksonJson
+2021-06-04 20:43:37 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON decoding codec LegacyJacksonJson
+2021-06-04 20:43:38 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML encoding codec XStreamXml
+2021-06-04 20:43:38 [restartedMain] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML decoding codec XStreamXml
+2021-06-04 20:43:39 [restartedMain] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2021-06-04 20:43:39 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2021-06-04 20:43:39 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2021-06-04 20:43:39 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2021-06-04 20:43:39 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2021-06-04 20:43:39 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2021-06-04 20:43:39 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+2021-06-04 20:43:39 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2021-06-04 20:43:39 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2021-06-04 20:43:39 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2021-06-04 20:43:39 [restartedMain] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2021-06-04 20:43:39 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1622819619670 with initial instances count: 0
+2021-06-04 20:43:39 [restartedMain] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application HRD-REIMB-BE with eureka with status UP
+2021-06-04 20:43:39 [restartedMain] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1622819619673, current=UP, previous=STARTING]
+2021-06-04 20:43:39 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093: registering service...
+2021-06-04 20:43:39 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2021-06-04 20:43:39 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-06-04 20:43:39 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - registration status: 204
+2021-06-04 20:43:39 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2021-06-04 20:43:39 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8093 (http) with context path ''
+2021-06-04 20:43:39 [restartedMain] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 8093
+2021-06-04 20:43:40 [restartedMain] INFO  i.e.s.e.h.r.HrdReimbBeApplication - Started HrdReimbBeApplication in 8.789 seconds (JVM running for 9.858)
+2021-06-04 20:44:09 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2021-06-04 20:44:09 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2021-06-04 20:44:09 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2021-06-04 20:44:09 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2021-06-04 20:44:09 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2021-06-04 20:44:09 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: false
+2021-06-04 20:44:09 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2021-06-04 20:44:09 [DiscoveryClient-CacheRefreshExecutor-0] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2021-06-04 20:48:39 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2021-06-04 20:53:39 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2021-06-04 20:57:20 [http-nio-8093-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-04 20:57:20 [http-nio-8093-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-06-04 20:57:20 [http-nio-8093-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2021-06-04 20:57:20 [http-nio-8093-exec-2] INFO  i.e.s.e.h.r.c.EmployeeController - --Fetching Employee by Id--
+2021-06-04 20:57:24 [RMI TCP Connection(23)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-06-04 20:57:24 [RMI TCP Connection(23)-127.0.0.1] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application HRD-REIMB-BE with eureka with status DOWN
+2021-06-04 20:57:24 [RMI TCP Connection(23)-127.0.0.1] WARN  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1622820444891, current=DOWN, previous=UP]
+2021-06-04 20:57:24 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093: registering service...
+2021-06-04 20:57:24 [RMI TCP Connection(23)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-06-04 20:57:24 [RMI TCP Connection(23)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+2021-06-04 20:57:24 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - registration status: 204
+2021-06-04 20:57:24 [RMI TCP Connection(23)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - Unregistering ...
+2021-06-04 20:57:24 [RMI TCP Connection(23)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_HRD-REIMB-BE/LAPTOP-6N5P1UJ3:hrd-reimb-be:8093 - deregister  status: 200
+2021-06-04 20:57:25 [RMI TCP Connection(23)-127.0.0.1] INFO  c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+2021-06-04 20:57:25 [RMI TCP Connection(23)-127.0.0.1] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2021-06-04 20:57:25 [RMI TCP Connection(23)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'

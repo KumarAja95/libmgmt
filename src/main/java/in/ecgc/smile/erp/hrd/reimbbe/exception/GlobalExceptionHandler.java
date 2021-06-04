@@ -27,7 +27,6 @@ import org.springframework.web.context.request.WebRequest;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
 
 @ControllerAdvice
-@PropertySource("classpath:errormap.properties")
 public class GlobalExceptionHandler extends ResponseEntityExceptionHandler {
 
 	private static final Logger LOGGER = LoggerFactory.getLogger(GlobalExceptionHandler.class);

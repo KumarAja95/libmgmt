@@ -1,12 +1,9 @@
 package in.ecgc.smile.erp.hrd.reimbbe.service;
 
-import java.util.List;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import in.ecgc.smile.erp.hrd.reimbbe.model.Employee;
-import in.ecgc.smile.erp.hrd.reimbbe.model.EmployeeDependent;
 import in.ecgc.smile.erp.hrd.reimbbe.repository.EmployeeDao;
 
 
@@ -29,21 +26,6 @@ public class EmployeeServiceImpl implements EmployeeService {
 
 	public void setDao(EmployeeDao dao) {
 		this.dao = dao;
-	}
-
-	
-	
-
-
-
-	@Override
-	public List<EmployeeDependent> viewDependdentById(Integer empNo, String processName) {
-		return dao.getDependentById(empNo, processName);
-	}
-
-	@Override
-	public EmployeeDependent viewDependentByDependentId(Integer dependentId) {
-		return dao.getDependentByDependentId(dependentId);
 	}
 
 	@Override

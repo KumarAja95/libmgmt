@@ -12,7 +12,7 @@
 	<artifactId>hrd_reimb_be</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hrd_reimb_be</name>
-	<description>HRD Reimbursement Backend Service</description>
+	<description>Backend Service</description>
 
 	<properties>
 		<java.version>1.8</java.version>
