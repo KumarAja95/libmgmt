@@ -1,4 +1,4 @@
-package in.ecgc.smile.erp.hrd.reimbbe.exception;
+package in.erp.lib.mgmtbe.exception;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package in.ecgc.smile.erp.hrd.reimbbe.config;
+package in.erp.lib.mgmtbe.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -16,7 +16,7 @@ public class SwaggerConfig {
 	public Docket productApi() {
 		return new Docket(DocumentationType.SWAGGER_2)
 				.select()
-				.apis(RequestHandlerSelectors.basePackage("in.ecgc.smile.erp.hrd.reimbbe.controller"))
+				.apis(RequestHandlerSelectors.basePackage("in.erp.lib.mgmtbe.controller"))
 				.build();
 	}
 }
